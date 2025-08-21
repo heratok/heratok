@@ -1,4 +1,4 @@
-![Typing SVG](https://readme-typing-svg.herokuapp.com/?color=02D9F7FF&size=35&center=true&vCenter=true&width=1000&lines=Hector+Rincon)
+![Typing SVG](https://readme-typing-svg.herokuapp.com/?color=02D9F7FF&size=35&center=true&vCenter=true&width=1000&lines=Hello+👋,+I'm+Hector+Rincon)
 
 <h3 align="center">"Transforming Ideas into Reality: A Developer Passionate about Digital Innovation"</h3>
 
