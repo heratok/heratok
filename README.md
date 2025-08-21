@@ -22,6 +22,7 @@
 <p align="left">
 <a href="https://www.linkedin.com/in/hector-armando-rinc%C3%B3n-farelo-ba475a31a/" target="_blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="linkedin" height="30" width="40" /></a>
 <a href="https://github.com/heratok" target="_blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/github.svg" alt="portfolio" height="30" width="40" /></a>
+<a href="https://portafolio-eight-sigma-47.vercel.app/" target="_blank">🌐 Visit my Portfolio</a>
 </p>
 
 <h2 align="center">🛠️ Technologies & Tools</h2>
